@@ -1,3 +1,3 @@
 # daniele.app
-[web]: https://daniele.app
+(https://daniele.app)
 ## test
